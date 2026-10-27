@@ -4,20 +4,20 @@
 
 ### Student Information
 
-    | Information | Details |
-    |---|---|
-    | **Student Name** | Md. Mashrafi Rahman |
-    | **Student ID** | IT-24034 |
-    | **Course** | SEPM-ICT-3107 |
-    | **Project Type** | Individual Software Engineering Project |
-    | **Development Model** | Agile Scrum |
-    | **Programming Language** | Java 26 |
-    | **GUI Technology** | Java Swing with FlatLaf |
-    | **Database** | SQLite |
-    | **Development Environment** | IntelliJ IDEA |
-    | **Build Tool** | Maven |
-    
-    ---
+| Information | Details |
+|---|---|
+| **Student Name** | Md. Mashrafi Rahman |
+| **Student ID** | IT-24034 |
+| **Course** | SEPM-ICT-3107 |
+| **Project Type** | Individual Software Engineering Project |
+| **Development Model** | Agile Scrum |
+| **Programming Language** | Java 26 |
+| **GUI Technology** | Java Swing with FlatLaf |
+| **Database** | SQLite |
+| **Development Environment** | IntelliJ IDEA |
+| **Build Tool** | Maven |
+
+---
 
 # 1. Introduction
 
