@@ -545,6 +545,9 @@ Proposed classes include:
 - Assignment
 - Progress
 
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f60286cc-6364-4804-864a-23dfa419af4c" />
+
+
 ### 19.6 Object Diagram
 
 The Object Diagram will show example runtime objects created from the classes.
